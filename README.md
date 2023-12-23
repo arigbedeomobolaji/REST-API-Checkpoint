@@ -93,12 +93,6 @@ Removes a user with the specified ID.
 1. Make sure to create a .env file in the config directory with the following variables:
 
    ```env
-   GET /seed
-
-
-2. Get All Users
-
-   ```env
    DB_URL=your_database_url
    PORT=your_server_port
 
