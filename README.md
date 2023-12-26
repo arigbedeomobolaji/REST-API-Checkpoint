@@ -26,7 +26,7 @@ The project consists of two main files:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/rest_api_checkpoint.git
+   git clone https://github.com/arigbedeomobolaji/REST-API-Checkpoint.git
 
 2. Navigate to the project directory:
 
